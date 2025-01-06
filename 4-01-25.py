@@ -1,4 +1,3 @@
-#Create a List, tuple and Dictionary with 5 elements in it and how to access few elements based on the index. Try  with different examples 
 my_list = [11,22,33,44,55]
 print("List Elements:")
 print(f"First element (index 0): {my_list[0]}")  
